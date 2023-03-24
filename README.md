@@ -1,5 +1,3 @@
-# Ibram
-
 # To delete a remote branch
 # git push origin :branch_name
 
